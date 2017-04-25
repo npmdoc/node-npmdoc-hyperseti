@@ -1,4 +1,7 @@
-# api documentation for  [hyperseti (v2.0.0)](https://github.com/npm/deprecate-holder#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperseti.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperseti) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperseti.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperseti)
+# npmdoc-hyperseti
+
+#### basic api documentation for  [hyperseti (v2.0.0)](https://github.com/npm/deprecate-holder#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperseti.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperseti) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperseti.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperseti)
+
 #### This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name.
 
 [![NPM](https://nodei.co/npm/hyperseti.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hyperseti)
@@ -49,7 +52,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
